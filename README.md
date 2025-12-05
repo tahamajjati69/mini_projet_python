@@ -11,7 +11,12 @@ Il met en œuvre plusieurs concepts importants en Programmation Orientée Objet 
 ## 🖥️ Example Execution <br>
 🎥 Démonstration MySQL
 ## 🎥 Démonstration vidéo <br>
-[▶️ Cliquez ici pour voir la vidéo](assets/projet_py.mp4)
+[▶️ Cliquez ici pour voir la vidéo](assets/projet_py.mp4) <br
+## 🧑‍💻 Author
+👤 Mohamed Taha Majjati <br>
+🏫 Programmation orientée objet en Python <br>
+🎓 Instructor : Mr. LACHGAR <br>
+📅 12 decembre 2025 <br>
 
 
 
