@@ -10,6 +10,9 @@ Il met en œuvre plusieurs concepts importants en Programmation Orientée Objet 
 <img width="652" height="665" alt="image" src="https://github.com/user-attachments/assets/c15643e9-27c7-4d11-839d-ca6afb1c89a4" /> <br>
 ## 🖥️ Example Execution <br>
 🎥 Démonstration MySQL
+## 🎥 Démonstration vidéo <br>
+[▶️ Cliquez ici pour voir la vidéo](assets/projet_py.mp4)
+
 
 
 
